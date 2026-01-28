@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-01-28 16:30:00",
+    "source_file": "/root/projet-off/data/sample.jsonl",
+    "rows_read": 1000,
+    "rows_processed": 985,
+    "rows_rejected": 15,
+    "quality_rules": [
+        "sugars_100g <= 100",
+        "salt_100g <= 100",
+        "code is not null"
+    ]
+}
